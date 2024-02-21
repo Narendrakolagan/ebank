@@ -1,0 +1,18 @@
+.home-bg-container {
+  background-color: #152850;
+  height: 100vh;
+  width: 100vw;
+}
+.home-heading {
+  color: white;
+}
+.digital-card {
+  height: 400px;
+  width: 600px;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
